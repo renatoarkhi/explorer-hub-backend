@@ -1,0 +1,10 @@
+# Módulo de bibliotecas ultra-pesado (Nunca suba isso!)
+node_modules/
+
+# Arquivos de log 
+logs
+*.log
+npm-debug.log*
+
+# Pastas de Build Output
+dist/
